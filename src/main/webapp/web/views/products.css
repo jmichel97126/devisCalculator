@@ -1,0 +1,10 @@
+.product-visible-true {
+    display:inline;
+}
+.product-visible-false {
+    display:none;
+}
+.done-true {
+    text-decoration: line-through;
+    color: grey;
+}
